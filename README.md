@@ -15,7 +15,6 @@ Secondly, install the dependencies and run the development server:
 ```bash
 npm i
 # then
-
 npm run dev
 # or
 yarn dev
